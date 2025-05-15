@@ -18,7 +18,7 @@
           <properties>
             <maven.compiler.source>17</maven.compiler.source>
             <maven.compiler.target>17</maven.compiler.target>
-          </properties
+          </properties>
 
           <!--<source>1.8</source>-->
           <!--<target>1.8</target>-->
